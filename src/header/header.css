@@ -35,6 +35,8 @@
     justify-content:space-between;
     align-items: center;
      padding: 17px 100px;
+     position: fixed;
+     z-index: 900;
 }
 
 .content img {
@@ -77,6 +79,8 @@ nav a:hover {
 nav button:hover {
     background-color: black;
     color: var(--ThColor);
+    border:  1px solid #14bf98 ;
+
 }
 
 
