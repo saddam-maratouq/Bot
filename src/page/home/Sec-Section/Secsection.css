@@ -1,0 +1,60 @@
+.intro {
+    width: 100;
+    min-height: 50vh;
+    background-image: linear-gradient(to right , black ,#245153 );
+    display: flex;
+}
+
+
+
+.intro-info {
+    display: flex;
+    flex-direction: column;
+    margin: 10%;
+    justify-content: center;
+}
+
+
+.int {
+    margin-bottom: 5rem; 
+}
+
+.int  p {
+    color: var(--ThColor) ;
+    line-height: 2;
+    font-size: 1.5rem;
+    
+}
+
+.int h1 {
+    color: var(--MainColor);
+    line-height: 1;
+    font-size: 2rem; 
+}
+
+
+.knowing {
+  
+    margin-bottom: 20% ;
+    position: relative;
+    bottom: 3rem;
+}
+
+.knowing  p {
+    color: #0F0F0F;
+    line-height: 1.5; 
+}
+
+
+.robotHand {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.robotHand img {
+    width: 550px;
+    height: 300px ;
+    margin-top: 7.3rem;
+}
+
+
