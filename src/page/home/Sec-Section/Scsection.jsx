@@ -29,7 +29,7 @@ const Scsection = () => {
             <img src={robotHand} alt="robot hand" />
         </div>
     </section>  
-
+    
 )
 }
 
