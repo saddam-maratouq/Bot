@@ -17,6 +17,7 @@
      justify-content: center;
      font-size: 2.5rem; 
      margin-top: 90px;
+     font-weight: 800;
  }
 
 .cards {
@@ -39,6 +40,14 @@
     border-radius: 38px;
     transition: 4s ease; 
 }
+
+
+.card:hover {
+    background-color: black;
+    cursor: pointer;
+}
+
+
 
 .card img {
     padding: 7px;
@@ -76,7 +85,3 @@
     height: 75px;
 }
 
-.card:hover {
-    background-color: black;
-    cursor: pointer;
-}

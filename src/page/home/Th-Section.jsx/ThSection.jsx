@@ -32,9 +32,10 @@ const ThSection = () => {
             <p>  
             It is your next and essential digital step in
             
-             <br />
+             
               a digital world of smart Websites and   
-             customer service. Be there first! Provide your users and customers with the best <br /><br /> 
+             customer service. Be there first! Provide your users and customers with the best 
+             the best and easiest experience through powering your website .
              </p>
             </div>
            </div>  

@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "../../header/Header";
 import Fsection from "./f-section/Fsection";
+import ForthSection from "./forth-section/ForthSection";
 import Scsection from "./Sec-Section/Scsection";
 import ThSection from "./Th-Section.jsx/ThSection";
 
@@ -15,6 +16,7 @@ const Home = () => {
       <Fsection/>  
       <Scsection/> 
       <ThSection/> 
+      <ForthSection/> 
     </div> 
   );
 };

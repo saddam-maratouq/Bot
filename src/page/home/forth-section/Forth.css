@@ -1,0 +1,57 @@
+.feathers {
+    background-image: linear-gradient(to right , black ,#245153 );
+    width: 100%;
+    min-height: 100vh;
+
+}
+
+
+p {
+    color: gray;
+}
+
+
+.feathers img {
+    margin: 9rem;
+}
+
+.feathers-info {
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+
+h7 {
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 0%;
+    padding: 5px ; 
+    word-spacing: 0.2rem ;
+} 
+
+
+.feathers-info p {
+    margin-bottom: 50rem; 
+    font-size: 21px;
+    padding: 5px;
+    word-spacing: 0.2rem;
+}
+
+
+    .video {
+        align-items: flex-end;
+    }
+ /* .video youtube {
+    display: flex;
+    justify-content: end;
+   margin-bottom: 10rem;
+}
+
+youtube {
+    position: absolute;
+    left: 20px;
+    padding-left: 1000px;
+} */
